@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  height: 100vh;
+  background: rgb(201, 233, 255) ;
+  font-family: "DynaPuff", serif;
+}
